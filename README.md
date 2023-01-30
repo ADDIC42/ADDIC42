@@ -1,7 +1,7 @@
 ## Приветсутвую тебя странник
 ---
 ### Я Frontend программист и вот технологии, которые я использую:
-***
+
 ![javaScript](https://img.shields.io/badge/-javaScript-black?style=for-the-badge&logo=javaScript)
 ![mongoose](https://img.shields.io/badge/-mongoose-white?style=for-the-badge&logo=mongodb)
 ![reduxthunk](https://img.shields.io/badge/-REDUX_THUNK-670fbf?style=for-the-badge&logo=REDUX)
