@@ -9,7 +9,7 @@
 ![NODEJS](https://img.shields.io/badge/-NODEJS-white?style=for-the-badge&logo=node.js)
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-1f9602?style=for-the-badge&logo=EXPRESS)
 ![BCRYPT](https://img.shields.io/badge/-BCRYPT-black?style=for-the-badge&logo=BCRYPT)
-![reacthooks](https://img.shields.io/badge/-reacthooks-white?style=for-the-badge&logo=redux)
+![reacthooks](https://img.shields.io/badge/-reacthooks-670fbf?style=for-the-badge&logo=redux)
 ![reactRouter](https://img.shields.io/badge/-reactRouter-white?style=for-the-badge&logo=reactRouter)
 ![MATERIALUI](https://img.shields.io/badge/-MATERIAL_UI-0756b0?style=for-the-badge&logo=material-ui)
 ![GIT](https://img.shields.io/badge/-GIT-white?style=for-the-badge&logo=GIT)
