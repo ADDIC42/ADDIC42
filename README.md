@@ -1,5 +1,5 @@
-<h1 style="display: flex; justify-content: center ">Приветсутвую тебя странник</h1>
-<div style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
+<h1 align="center" style="display: flex; justify-content: center ">Приветсутвую тебя странник</h1>
+<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
 <img style="display: flex; align-items:center; " src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300" />
 </div>
 
