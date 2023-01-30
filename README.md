@@ -26,7 +26,8 @@
 ---
 ## Связаться со мной:
 [![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)(https://t.me/donald_true))
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram)](![Instagram](https://img.shields.io/badge/Instagram-blue?style=flat&logo=telegram)(https://instagram.com/ad.saraliev?igshid=YmMyMTA2M2Y=))
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adam_hellscream)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad.saraliev) 
 ![MailRu](https://img.shields.io/badge/Mail.Ru-adamfuturama@mail.ru-blue?style=flat&logo=gmail)
 ***
 ### Чтобы я хотел изучить в ближайшее время:
