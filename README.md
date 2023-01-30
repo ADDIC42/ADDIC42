@@ -1,6 +1,6 @@
 <h1 style="display: flex; justify-content: center ">Приветсутвую тебя странник</h1>
 <div style="display: flex; justify-content: center; text-align: center ">
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" />
 </div>
 
 ---
