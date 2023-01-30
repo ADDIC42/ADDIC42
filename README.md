@@ -1,11 +1,13 @@
 <h1 align="center" style="display: flex; justify-content: center ">Приветсутвую тебя странник</h1>
+<h2>Меня зовут Адам</h2>
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
 <img style="display: flex; align-items:center; " src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300" />
 </div>
 
 ---
-### Я Frontend разработчик и вот технологии, которые я использую:
+###  Я Frontend разработчик и вот технологии, которые я использую:
 
+<div align="center">
 
 ![javaScript](https://img.shields.io/badge/-javaScript-black?style=for-the-badge&logo=javaScript)
 ![reduxthunk](https://img.shields.io/badge/-REDUX_THUNK-670fbf?style=for-the-badge&logo=REDUX)
@@ -30,17 +32,24 @@
 ![PRETTIER](https://img.shields.io/badge/-PRETTIER-262a2b?style=for-the-badge&logo=PRETTIER)
 ![REDUX](https://img.shields.io/badge/-REDUX-670fbf?style=for-the-badge&logo=REDUX)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap)
+</div>
+
 
 ---
 ## Связаться со мной:
+<div align="center">
+
 [![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/donald_true)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adam_hellscream)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad.saraliev) 
 ![MailRu](https://img.shields.io/badge/Mail.Ru-adamfuturama@mail.ru-blue?style=flat&logo=gmail)
+
+</div>
+
 ***
 ### Чтобы я хотел изучить в ближайшее время:
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-black?style=for-the-badge&logo=TYPESCRIPT)
 
-#### полностью улучшить и освоить адаптивную и кроссбраузерную верстку
+### полностью улучшить и освоить адаптивную и кроссбраузерную верстку
 
 ### в общем всегда интересуюсь и готов изучать что-то новое
