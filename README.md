@@ -1,7 +1,11 @@
-## Приветсутвую тебя странник
-<img src="https://media.giphy.com/media/6pUBXVTai18Iw/giphy.gif" width="512px"/>
+<h1 style="display: flex; justify-content: center ">Приветсутвую тебя странник</h1>
+<div style="display: flex; justify-content: center ">
+<img src="https://media.giphy.com/media/6pUBXVTai18Iw/giphy.gif" width="512px" />
+</div>
+
 ---
 ### Я Frontend разработчик и вот технологии, которые я использую:
+
 
 ![javaScript](https://img.shields.io/badge/-javaScript-black?style=for-the-badge&logo=javaScript)
 ![reduxthunk](https://img.shields.io/badge/-REDUX_THUNK-670fbf?style=for-the-badge&logo=REDUX)
@@ -9,20 +13,23 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-white?style=for-the-badge&logo=node.js)
+
+<br>
+
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-1f9602?style=for-the-badge&logo=EXPRESS)
 ![BCRYPT](https://img.shields.io/badge/-BCRYPT-black?style=for-the-badge&logo=BCRYPT)
 ![reactTools](https://img.shields.io/badge/-reactTools-670fbf?style=for-the-badge&logo=redux)
 ![reactRouter](https://img.shields.io/badge/-reactRouter-white?style=for-the-badge&logo=reactRouter)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+
+<br>
+
 ![GIT](https://img.shields.io/badge/-GIT-white?style=for-the-badge&logo=GIT)
 ![REACT](https://img.shields.io/badge/-REACT-262a2b?style=for-the-badge&logo=REACT)
 ![PRETTIER](https://img.shields.io/badge/-PRETTIER-262a2b?style=for-the-badge&logo=PRETTIER)
 ![REDUX](https://img.shields.io/badge/-REDUX-670fbf?style=for-the-badge&logo=REDUX)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADDIC42&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ## Связаться со мной:
