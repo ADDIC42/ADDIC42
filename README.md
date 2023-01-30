@@ -19,8 +19,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap)
 ![dotenv](https://img.shields.io/badge/-dotenv-black?style=for-the-badge&logo=dotenv)
 ![cors](https://img.shields.io/badge/-cors-white?style=for-the-badge&logo=cors)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MORGAN](https://img.shields.io/badge/-MORGAN-black?style=for-the-badge&logo=MORGAN)
-![JSONWEBTOKEN](https://img.shields.io/badge/-JSONWEBTOKEN-black?style=for-the-badge&logo=jsonwebtoken)
+![JSONWEBTOKEN](https://img.shields.io/badge/-JSONWEBTOKEN-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![scss](https://img.shields.io/badge/-scss-bf0fae?style=for-the-badge&logo=sass)
 
 ---
