@@ -4,6 +4,9 @@
 </div>
 
 ---
+###  Мой LVL в CodeWArs:
+<img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="300" />
+<br>
 ###  Я Frontend разработчик и вот технологии, которые я использую:
 
 <div align="center">
