@@ -6,7 +6,7 @@
 ---
 ###  Мой LVL в CodeWArs:
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-  <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="300" />
+  <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="800" />
 </div>
 
 <br>
