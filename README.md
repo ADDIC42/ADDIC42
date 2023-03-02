@@ -5,7 +5,10 @@
 
 ---
 ###  Мой LVL в CodeWArs:
-<img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="300" />
+<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
+  <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="300" />
+</div>
+
 <br>
 ###  Я Frontend разработчик и вот технологии, которые я использую:
 
