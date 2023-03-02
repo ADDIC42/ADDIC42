@@ -4,8 +4,6 @@
 </div>
 
 ---
-<h2 align="center" style="display: flex; justify-content: center "> Мой LVL в CodeWArs: </h2>
-
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
   <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="600" />
 </div>
