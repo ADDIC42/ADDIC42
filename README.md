@@ -1,6 +1,7 @@
 <h1 align="center" style="display: flex; justify-content: center ">Приветсутвую тебя,странник</h1>
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-<img style="display: flex; align-items:center; " src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 </div>
 
 ---
