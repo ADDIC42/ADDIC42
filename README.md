@@ -1,5 +1,5 @@
 # **<div align="center">Привет, меня зовут Адам!</div>**  
-## My Skill Set  
+## Мои навыки 
 <div align="center" style="display:flex; justify-content:space-around; text-align: center ; align-items:center;">
   <div style="width: 50%">
     <h3>Frontend</h3>
