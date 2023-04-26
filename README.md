@@ -1,43 +1,51 @@
-<h1 align="center" style="display: flex; justify-content: center ">Приветсутвую тебя,странник</h1>
-<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ADDIC42&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-
+# **<div align="center">Привет, меня зовут Адам!</div>**  
+## My Skill Set  
+<div align="center" style="display:flex; justify-content:space-around; text-align: center ; align-items:center;">
+  <div style="width: 50%">
+    <h3>Frontend</h3>
+    <div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
+
+  </div>
+  <div style="width: 30%">
+      <h3>Backend</h3>
+      <div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+</div>
+
+  </div>
+</div>
+<br>
 
 ---
-<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
+<br/>  
+<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center; ">
   <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="600" />
 </div>
-
-<br>
-###  Я Frontend разработчик и вот технологии, которые я использую:
-
-<div align="center">
-
-![javaScript](https://img.shields.io/badge/-javaScript-black?style=for-the-badge&logo=javaScript)
-![reduxthunk](https://img.shields.io/badge/-REDUX_THUNK-670fbf?style=for-the-badge&logo=REDUX)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NODEJS](https://img.shields.io/badge/-NODEJS-white?style=for-the-badge&logo=node.js)
-
-<br>
-
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
-![EXPRESS](https://img.shields.io/badge/-EXPRESS-1f9602?style=for-the-badge&logo=EXPRESS)
-![BCRYPT](https://img.shields.io/badge/-BCRYPT-black?style=for-the-badge&logo=BCRYPT)
-![reactTools](https://img.shields.io/badge/-reactTools-670fbf?style=for-the-badge&logo=redux)
-![reactRouter](https://img.shields.io/badge/-reactRouter-white?style=for-the-badge&logo=reactRouter)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-
-<br>
-
-![GIT](https://img.shields.io/badge/-GIT-white?style=for-the-badge&logo=GIT)
-![REACT](https://img.shields.io/badge/-REACT-262a2b?style=for-the-badge&logo=REACT)
-![PRETTIER](https://img.shields.io/badge/-PRETTIER-262a2b?style=for-the-badge&logo=PRETTIER)
-![REDUX](https://img.shields.io/badge/-REDUX-670fbf?style=for-the-badge&logo=REDUX)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=Bootstrap)
+<br/>  
+<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ADDIC42&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 </div>
+<br/>  
+
+<br/>  
 
 
 ---
@@ -50,11 +58,3 @@
 ![MailRu](https://img.shields.io/badge/Mail.Ru-adamfuturama@mail.ru-blue?style=flat&logo=gmail)
 
 </div>
-
-***
-### Чтобы я хотел изучить в ближайшее время:
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-black?style=for-the-badge&logo=TYPESCRIPT)
-
-### полностью улучшить и освоить адаптивную и кроссбраузерную верстку
-
-### в общем всегда интересуюсь и готов изучать что-то новое
