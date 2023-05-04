@@ -41,7 +41,7 @@
 </div>
 <br/>  
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-<div align="center"><img src="[![ADDIC42 GitHub stats](https://github-readme-stats.vercel.app/api?username=ADDIC42)](https://github.com/ADDIC42/github-readme-stats)" align="center" /></div> 
+<div align="center"><img src="![ADDIC42 GitHub stats](https://github-readme-stats.vercel.app/api?username=ADDIC42&show_icons=true&theme=radical)" align="center" /></div> 
 </div>
 <br/>  
 
