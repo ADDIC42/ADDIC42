@@ -1,4 +1,4 @@
-# **<div align="center">Привет, меня зовут Адам!</div>**  
+# **<div >Hey, i'm Adam👋</div>** 
 ## Мои навыки 
 <div align="center" style="display:flex; justify-content:space-around; text-align: center ; align-items:center;">
   <div style="width: 50%">
@@ -34,6 +34,12 @@
 </div>
 <br>
 
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 ---
 <br/>  
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center; ">
@@ -41,7 +47,7 @@
 </div>
 <br/>  
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ADDIC42&show_icons=true&theme=tokyonight" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ADDIC42&show_icons=true&theme=dracula" align="center" /></div> 
 </div>
 <br/>  
 
